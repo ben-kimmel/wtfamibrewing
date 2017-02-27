@@ -1,30 +1,87 @@
 {
     "heading": [
-        "It's a fucking",
-        "Check this shit out, a fucking"
+        "Let's spice it up with a",
+        "Check this jank out, a",
+        "Alright, I'm serious this time, it's a",
+        "I think this might finally be viable, time for a"
     ],
 
     "response": [
-        "Already fucking seen one",
-        "Give me a-fucking-nother one",
-        "Don't really give a fuck"
+        "Needs more Storm Crow",
+        "Not enough spice, hit me again",
+        "Now we've gone too deep",
+        "We might be able to salvage this if we replace it with Jund"
     ],
 
     "template": [
-        "Big @color @animal",
-        "Silly @animal with @color fur"
+        "Mono-@color @archetype guest starring @card, maybe in @format?",
+        "@guild @archetype splashing for @card in @format",
+        "5 color @archetype in @format, with @card for value",
+        "@format @archetype that is base @color, but is playing @card as a backup plan",
+        "Hybrid @archetype/@archetype in @format that plays @card",
+        
     ],
 
-    "animal": [
-        "dog",
-        "cat",
-        "rabbit"
+    "archetype": [
+        "aggro",
+        "combo",
+        "control",
+        "midrange",
+        "Tron",
+        "Eldrazi",
+        "MUD",
+        "Shops"
+    ],
+
+    "format": [
+        "Modern",
+        "Tribal",
+        "Classic",
+        "Tiny Leaders",
+        "Pauper",
+        "Peasent",
+        "Legacy",
+        "Vintage",
+        "Standard",
+        "Extended",
+        "Masques Block Constructed",
+        "EDH",
+        "Highlander"
+    ],
+
+    "card": [
+
     ],
 
     "color": [
         "red",
         "blue",
         "green",
-        "yellow"
+        "white",
+        "black",
+        "colorless"
+    ],
+
+    "guild": [
+        "Azorius",
+        "Dimir",
+        "Rakdos",
+        "Gruul",
+        "Selesnya",
+        "Orzhov",
+        "Izzet",
+        "Golgari",
+        "Boros",
+        "Simic",
+        "Bant",
+        "Esper",
+        "Jund",
+        "Grixis",
+        "Naya",
+        "Abzan",
+        "Jeskai",
+        "Sultai",
+        "Mardu",
+        "Temur"
     ]
 }
